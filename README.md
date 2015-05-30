@@ -23,4 +23,7 @@ username_follow is the file which lists the users it follows.
 
 Each user is assigned an index for better access in the code(User Index.txt).
 
-Some books and authors have been added.
+Some books and authors have been added. You can add more by following the syntax
+of the files. Just open and read the txt files to get the idea.
+
+To run the application, just download the whole project and run the exe file.
