@@ -2,6 +2,7 @@
 Social Book Club - Simple Command Line C++ Application with File Based Database Management
 
 A basic Command Line C++ application which lets us do the following-
+
 1. Create a New User.
 2. List Books available on the basis of Book Name and Author name
 3. Rate a particular book
